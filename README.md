@@ -5,4 +5,4 @@ Many thanks to the wonderful 'Probabilistic Deep Learning' course provided by Dr
 
 Description: 
 
-The NF-distribution-2d notebook file implements a NF to estimate a 2-dimensional distribution.
+The NF-distribution-2d notebook file implements a NF to estimate a 2-dimensional distribution. The specific NF used here is called the Masked Autoregressive Flow.
